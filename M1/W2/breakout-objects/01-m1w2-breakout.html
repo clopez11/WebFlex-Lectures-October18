@@ -9,6 +9,52 @@
 <body>
   <h1>M1W2 - Breakout Session</h1>
   <script>
+    // method => obj
+    // function => global (window)
+
+    // Option 1: pass this as an argument
+    const team = {
+      city: 'Toronto',
+      name: 'Raptors',
+      players: ['Kyle Lowry', 'Fred VanVleet', 'Aron Baynes'],
+      printPlayers() {
+        this.players.forEach(function(player) {
+          console.log(this.city, player)
+        }, this);
+      }
+    };
+
+    // Option 2: define a constant
+    const team = {
+      city: 'Toronto',
+      name: 'Raptors',
+      players: ['Kyle Lowry', 'Fred VanVleet', 'Aron Baynes'],
+      printPlayers() {
+        const self = this;
+        this.players.forEach(function(player) {
+          console.log(self.city, player)
+        });
+      }
+    };
+
+    // Option 3: arrow function
+    const team = {
+      city: "Toronto",
+      teamName: "Raptors",
+      players: ['player1', 'player2', 'player3'],
+      years: [2019, 2020, 2021],
+      printPlayers() {
+        this.players.forEach((player) => {
+          console.log(this.teamName, player);
+        });
+      },
+      printYears() {
+        this.years.forEach((year) => {
+          console.log(this.city, player);
+        });
+      }
+    };
+    team.printPlayers();
   </script>
 </body>
 </html>
