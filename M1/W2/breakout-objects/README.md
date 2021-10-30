@@ -152,8 +152,8 @@ let num = 11;
 ```
 
 ### Review: `this` inside objects
-* function is a method in an object, `this` references that object itself.
-* function is a regular function, meaning it's not part of an object, then `this` references the `global` object, which is the `window` object in browsers.
+* if afunction is a method in an object, `this` references that object itself.
+* if a function is a regular function, meaning it's not part of an object, then `this` references the `global` object, which is the `window` object in browsers.
 
 ```javascript
 // method -> obj
