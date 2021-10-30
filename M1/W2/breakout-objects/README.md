@@ -271,4 +271,4 @@ printPlayers.bind({ name: 'Raptors' })();
 
 ### Looping through Objects (`for...in`)
 * How about accessing a key by value?
-* check `01-m1w2-breakout.html`.
+* check `02-objects-this-keys.js` file.
