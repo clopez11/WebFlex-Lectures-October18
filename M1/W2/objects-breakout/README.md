@@ -152,8 +152,8 @@ let num = 11;
 ```
 
 ### Review: `this` inside objects
-* function is a method in an object, `this` references that object itself.
-* function is a regular function, meaning it's not part of an object, then `this` references the `global` object, which is the `window` object in browsers.
+* if afunction is a method in an object, `this` references that object itself.
+* if a function is a regular function, meaning it's not part of an object, then `this` references the `global` object, which is the `window` object in browsers.
 
 ```javascript
 // method -> obj
@@ -271,4 +271,4 @@ printPlayers.bind({ name: 'Raptors' })();
 
 ### Looping through Objects (`for...in`)
 * How about accessing a key by value?
-* check `01-m1w2-breakout.html`.
+* check [`02-objects-this-keys.js`](https://github.com/clopez11/WebFlex-Lectures-October18/blob/master/M1/W2/breakout-objects/02-objects-this-keys.js) file.
