@@ -24,6 +24,15 @@
 
 ---
 
+## Troubleshooting if running tests does not work.
+* node version of 12 or higher for tests to work.
+* `nvm list` to list versions of node to use.
+* `nvm use <version>` to switch node version.
+* `node -v` to see node version.
+* `nvm -v`, to see node version manager.
+
+---
+
 ## Test Driven Development:
 * This is the concept of writing tests before we code (write code to make test pass).
 
