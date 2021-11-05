@@ -14,7 +14,11 @@
 - [X] `node_modules`
 - [X] What is Mocha?
 - [X] What is Chai?
-- [ ] Demo: Practice Unit Testing (Advance) - Breakout Thursday 4:30pm PT / 7:30 ET
+- [X] Demo: Practice Unit Testing (Advance) - Breakout Thursday 4:30pm PT / 7:30 ET
+  - [X] Tony's question: where is node modules installed.
+  - [X] `nvm list`
+  - [X] `assert` from `Chai`
+  - [X] `expect` from `Chai`
 
 ## Reminder: Record Class
 
