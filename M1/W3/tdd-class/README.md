@@ -25,7 +25,7 @@
 ---
 
 ## Troubleshooting if running tests does not work.
-* node version of 12 or higher for tests to work.
+* node version 12 or higher for tests to work.
 * `nvm list` to list versions of node to use.
 * `nvm use <version>` to switch node version.
 * `node -v` to see node version.
@@ -154,3 +154,9 @@ module.exports = {
 * https://www.npmjs.com
 * https://mochajs.org
 * https://www.chaijs.com
+
+## Links
+* [M1W3 - TDD with Mocha & Chai](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M1/W3/tdd-class)
+* [M1W3 - Breakout Session](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M1/W3/tdd-class)
+* [Class Recording](https://us02web.zoom.us/rec/share/-vmwEOtVv-efVSJ1YeMvjlYHbLfY0CBWliZj9QZD7NqKpSuJpcAsiFXYO7xAF6Q_.D8uRb7Z5okxIKXPp) |Passcode: BWcaj3.P
+* [Breakout Recording](https://us02web.zoom.us/rec/share/IgmRwklP94CO2WznJDTXSKxB0hY3s29xu2R0HzwWH-4f0thA0d6p7JfeUbsuv0_0.ySYcC7TwKr4MHX72) | Passcode: cmj*#q6m
