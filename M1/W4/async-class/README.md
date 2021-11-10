@@ -5,7 +5,6 @@
 - [X] Review: Callback
 - [X] Asynchronous Programming
 - [X] Demo: `setTimeout` and `setInterval`
------------------- Break: 10 minutes
 - [X] Recap: Blocking vs Non-Blocking
 - [X] Asynchronous Workflow
 - [X] Demo: Practice
