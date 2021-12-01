@@ -14,4 +14,4 @@ Cohort: October 18, 2021
 * [M1W2 - Objects in JavaScript](https://us02web.zoom.us/rec/share/oVDAVldBdnNEyInW1Yxp_Gd5G4TPnb4wu7cB1F4lJVHuFZRtnBdgK2lT0yXt97N3.QLwT8xbvt3F5NLAn) | **Passcode:** mT^35kb=
 * [M1W3 - TDD with Mocha & Chai](https://us02web.zoom.us/rec/share/-vmwEOtVv-efVSJ1YeMvjlYHbLfY0CBWliZj9QZD7NqKpSuJpcAsiFXYO7xAF6Q_.D8uRb7Z5okxIKXPp) | **Passcode:** BWcaj3.P
 * [M1W3 - Breakout Session](https://us02web.zoom.us/rec/share/IgmRwklP94CO2WznJDTXSKxB0hY3s29xu2R0HzwWH-4f0thA0d6p7JfeUbsuv0_0.ySYcC7TwKr4MHX72) | **Passcode:** cmj*#q6m
-* [M3W7 - HTTP Cookies & User Authentication]() | **Passcode:** Srj!U0F@
+* [M3W7 - HTTP Cookies & User Authentication](https://us02web.zoom.us/rec/share/wCZwhv2Nzf0zaDsSj07ryafGjo54mTdrGZg7QQC9E2CEHS6o7Qx6rkoCZXc84Fc.8yd4sFp6MqCcopsa) | **Passcode:** =nBQy1*#
