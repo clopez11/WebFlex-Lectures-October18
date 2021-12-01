@@ -95,5 +95,5 @@ app.get('/home', (req, res) => {
 ---
 
 ## Links
-* [M3W7 - HTTP Cookies & User Authentication](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M1/W4/async-class)
+* [M3W7 - HTTP Cookies & User Authentication](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M3/W7)
 * [Class Recording]() | Passcode: Srj!U0F@
