@@ -1,0 +1,79 @@
+/* REMOVE DEFAULT STYLES */
+body {
+  margin: 0;
+  padding: 0;
+  background: #d3d3d3;
+}
+
+p, a, h1, h2, h3, h4, h5, h6, img {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+/* ---------------------- */
+/* FLEXBOX CSS STYLES
+NOTE: immediate children only, I add border to see the relationship */
+/* ---------------------- */
+
+article {
+  border: 2px dotted #000;
+}
+
+h2, p, span, div {
+  border: 2px solid #fff;
+}
+
+/* Example 1 ---------------------- */
+/* FLEXBOX CSS STYLES
+NOTE: include nested flex boxes */
+/* ---------------------- */
+
+article {
+  border: 2px dotted #000;
+  margin: 10px;
+  padding: 10px;
+  /* display: flex; */
+}
+
+h2, p, span, div {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid #fff;
+  background: orange;
+  color: #000;
+}
+
+/* add display flex, so you can see what happens */
+.nested-div {
+  /* display: flex; */
+}
+
+/* Example 2 ---------------------- */
+/* FLEXBOX CSS STYLES
+add height, flex, row, space-evenly, center, wrap
+NOTE: position properties */
+/* ---------------------- */
+.flex-container {
+  /* display: flex; */
+  height: 500px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* ---------------------- */
+/* FLEXBOX CSS STYLES flex: #;
+NOTE: children properties */
+/* ---------------------- */
+/* .flex-item1 {
+}
+.flex-item2 {
+}
+.flex-item3 {
+}
+.flex-item4 {
+} */

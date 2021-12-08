@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CSS - Box Model | Display Properties</title>
+    <link rel="stylesheet" href="css/box-model.css">
+  </head>
+  <body>
+
+    <hr>
+    <br>
+
+    <!-- BOX MODEL EXAMPLE 1 -->
+    <section>
+      <h1>Box Model</h1>
+      <ul>
+        <li>Wrapper for all our HTML elements</li>
+        <li>Each HTML element we have on the page is made up of 4 main components</li>
+        <li>Margin, Border, Padding, Content</li>
+        <li>These 4 properties relate to each other</li>
+        <li>Can modify all these properties using CSS</li>
+        <li>Each element has a default property</li>
+        <li>The box model helps you visualize where your elements sit on your webpage and how they are spaced from each other</li>
+      </ul>
+
+      <div id="box1">
+        <p>content for box 1</p>
+      </div>
+
+      <div id="box2">
+        <p>content for box 2</p>
+      </div>
+    </section>
+
+    <hr>
+    <br>
+
+    <!-- BLOCK, INLINE, INLINE-BLOCK -->
+    <section>
+      <br>
+      <h1>Block, Inline, Inline-Block</h1>
+      <ul>
+        <li>Every HTML element has a default display property</li>
+        <li>CSS can override this default property</li>
+        <li>Before flex box, we had to use these properties to create our layouts</li>
+        <li>Challenging to create responsive websites with modern layouts</li>
+      </ul>
+      <br>
+    </section>
+
+    <hr>
+    <br>
+
+    <!-- BLOCK -->
+    <section>
+      <br>
+      <h1>Block</h1>
+      <br>
+      <div class="block-elements">
+        <h4>Block Elements</h4>
+        <p>Other examples of block elements: p, h1, h2, h3, h4, h5, h6, ul, ol...etc</p>
+        <ul>
+          <li>start a new line (h1, p, div)</li>
+          <li>take up entire width, that's why they flow top to bottom</li>
+          <li>does not allow left or right elements of them</li>
+          <li>can set specific widths and heights</li>
+        </ul>
+        <br>
+        <div class="div-block">
+          <p>div block</p>
+        </div>
+        <div class="div-block">
+          <p>div block</p>
+        </div>
+      </div>
+      <br>
+    </section>
+
+    <hr>
+    <br>
+
+    <!-- INLINE -->
+    <section>
+      <br>
+      <h1>Inline</h1>
+      <br>
+      <div class="inline-elements">
+        <h4>Inline Elements</h4>
+        <p>Other examples of inline elements: span, em, strong</p>
+        <ul>
+          <li>take up only as much space as they need for content</li>
+          <li>flow within the text, from left to right</li>
+          <li>cannot set height and width</li>
+          <li>continue on the same line as other elements (strong, em, span)</li>
+        </ul>
+        <br>
+        <a href="#" class="a-inline">inline,<span> span <strong>tag</strong> is <em>also</em> an inline</span></a>
+        <a href="#" class="a-inline">inline</a>
+        <a href="#" class="a-inline">inline</a>
+        <a href="#" class="a-inline">inline</a>
+        <a href="#" class="a-inline">inline</a>
+        <a href="#" class="a-inline">inline</a>
+        <a href="#" class="a-inline">inline</a>
+      </div>
+      <br>
+    </section>
+
+    <hr>
+    <br>
+
+    <!-- INLINE-BLOCK -->
+    <section>
+      <br>
+      <h1>Inline-Block</h1>
+      <br>
+      <div class="inline-block-elements">
+        <h4>Inline-Block Elements</h4>
+        <ul>
+          <li>best of both worlds (img)</li>
+          <li>can be placed on the same line as other elements</li>
+          <li>can assign height and width</li>
+        </ul>
+        <br>
+        <a href="#"> Image Link1</a>
+        <img class="inline-block-img" src="https://cdn.pixabay.com/photo/2018/08/12/15/29/hintersee-3601004__480.jpg" alt="forest" width="20%"><a href="#"> Image Link2</a>
+      </div>
+      <br>
+    </section>
+
+    <hr>
+  </body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CSS - Flexbox Review</title>
+    <link rel="stylesheet" href="/css/flexbox.css">
+  </head>
+  <body>
+    <!-- Introduction to FlexBox -->
+    <section>
+      <br>
+      <hr>
+      <h1>Flex Box Introduction</h1>
+      <ul>
+        <li>Another display property other than block, inline and inline-block</li>
+        <li>When you apply flex to a container, it's immediate children elements are turned into flex boxes</li>
+        <li>Flex Box adjusts immediate children, only first level of nesting</li>
+        <li>The parent stays as block element, does not get affected</li>
+        <li>Flex arranges elements default by row, changes the behaviour once applied</li>
+        <li>Combine flex box with other display properties to create flexible and modern layouts</li>
+        <li>Not a replacement but solves a lot of layout challenges before</li>
+      </ul>
+      <br>
+    </section>
+
+    <!-- Example 1 -->
+    <section>
+      <article>
+        <h2>Example</h2>
+        <p>Paragraph Here</p>
+        <span>Span Inline Tag</span>
+        <div class="nested-div">
+          <p>Nested Tag 1</p>
+          <p>Nested Tag 2</p>
+        </div>
+      </article>
+    </section>
+
+    <br>
+    <hr>
+
+    <!-- Example 2:
+      NOTE:
+      - row = main (left to right) / column = cross (top to bottom) i.e. excel sheet
+      - flex-direction: how to layout children - row/column
+      - justify-content: alignment along main axis (row)
+      - align-items: alignment along cross axis (column)
+      - flex-wrap: distributes space evenly or display on multiple lines
+      - align-content: alignment of entire block element (works if content wraps)
+
+      - flex-shrink: similar to flex-grow, never used
+      - flex-basis: starting dimension of box in main axis, never used
+    -->
+    <section>
+      <br>
+      <h1>Example 2</h1>
+      <div class="flex-container">
+        <div class="box flex-item1">Flex Box 1</div>
+        <div class="box flex-item2">Flex Box 2</div>
+        <div class="box flex-item3">Flex Box 3</div>
+        <div class="box flex-item4">Flex Box 4</div>
+      </div>
+    </section>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+<!--  -->
