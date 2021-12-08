@@ -37,7 +37,7 @@
 
 ---
 
-## Multi Page vs Single Page
+## [Multi Page vs Single Page](https://github.com/clopez11/WebFlex-Lectures-October18/blob/master/M4/W8/css-class/demo/docs/mpa-spa.jpg)
 * **Multi Page** example is what you just built, **TinyApp**.
 * Traditional website, page reloads when moving from one page to another.
 * `HTML` & `CSS` is loaded at every page reload.
@@ -317,7 +317,7 @@ h1 {
 
 ---
 
-## Box Model
+## [Box Model](https://github.com/clopez11/WebFlex-Lectures-October18/blob/master/M4/W8/css-class/demo/docs/box-model.jpg)
 * The box model refers to the fact that each HTML element we have on the page is made up of four main components.
 * The box model refers to how these four properties relate to each other.
 * We can alter all of these properties using CSS, but each element has a default property assigned to them.
