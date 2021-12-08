@@ -11,7 +11,6 @@
 - [X] Dev Tools
 - [X] Intro to CSS
 - [X] Inline | Internal | External Styles
------------------- Break: 10 minutes
 - [X] CSS Resets | Normalize
 - [X] Selectors (`tag`, `nesting`, `class`, `id`)
 - [X] Cascade
