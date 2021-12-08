@@ -25,8 +25,8 @@
 ---
 
 ## Links
-* [M3W7 - Intro to CSS]()
-* [Class Recording]() | Passcode:
+* [M4W8 - Intro to CSS](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W8/css-class)
+* [Class Recording](https://us02web.zoom.us/rec/share/qNKxkzeKfYj5RtgUMRg94coU6rbD1Fclr7cjfzjEEjBGMy58QQj98yv4j1Rq3Td_.tQHamVrw7KgCF4m1) | **Passcode:** $J3$t15d
 
 ---
 
