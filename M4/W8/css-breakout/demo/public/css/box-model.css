@@ -1,0 +1,64 @@
+/* REMOVE DEFAULT STYLES */
+body {
+  margin: 0;
+  padding: 0;
+  background: #d3d3d3;
+}
+
+p, a, h1, h2, h3, h4, h5, h6, img {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+/* ---------------------- */
+/* BOX MODEL EXAMPLE */
+/* add margin, padding, border, width and height */
+/* ---------------------- */
+
+#box1 {
+  background: yellow;
+}
+#box2 {
+  background: orange;
+}
+
+/* ---------------------- */
+/* BLOCK */
+/* add margin, padding, border, width and height */
+/* ---------------------- */
+.div-block {
+  background: orange;
+}
+.div-block p {
+  text-align: center;
+}
+
+/* ---------------------- */
+/* INLINE */
+/* add margin, padding, border, width and height */
+/* ---------------------- */
+
+.a-inline {
+  background: fuchsia;
+}
+
+span {
+  color: #fff;
+}
+
+/* ---------------------- */
+/* INLINE-BLOCK */
+/* add margin, padding, border, width and height */
+/* ---------------------- */
+.inline-block-img {
+  width: 250px;
+}
+
+a {
+  color: #2e2e2e;
+}
