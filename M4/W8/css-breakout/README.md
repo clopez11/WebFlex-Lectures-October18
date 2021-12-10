@@ -114,3 +114,8 @@ flex: 10 5 400px;
 ## Resources:
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * https://flexboxfroggy.com
+
+---
+## Links
+* [M4W8 - Breakout Session](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W8/css-breakout)
+* [CLass Recording](https://us02web.zoom.us/rec/share/3LZYvG2C2VYMi-ffb69ue8fl5oauWFPeQdlneCnUbZppwhZQQ_RivfRn8hEU6BQ.ykGodXbw-hjAMM_Z?startTime=1639094564000) | **Passcode:** K6Xfo+t.
