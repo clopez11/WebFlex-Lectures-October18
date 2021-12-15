@@ -19,5 +19,3 @@ Cohort: October 18, 2021
 * [M1W3 - Breakout Session](https://us02web.zoom.us/rec/share/IgmRwklP94CO2WznJDTXSKxB0hY3s29xu2R0HzwWH-4f0thA0d6p7JfeUbsuv0_0.ySYcC7TwKr4MHX72) | **Passcode:** cmj*#q6m
 * [M3W7 - HTTP Cookies & User Authentication](https://us02web.zoom.us/rec/share/wCZwhv2Nzf0zaDsSj07ryafGjo54mTdrGZg7QQC9E2CEHS6o7Qx6rkoCZXc84Fc.8yd4sFp6MqCcopsa) | **Passcode:** =nBQy1*#
 * [M4W8 - Intro to CSS](https://us02web.zoom.us/rec/share/qNKxkzeKfYj5RtgUMRg94coU6rbD1Fclr7cjfzjEEjBGMy58QQj98yv4j1Rq3Td_.tQHamVrw7KgCF4m1) | **Passcode:** $J3$t15d
-
-
