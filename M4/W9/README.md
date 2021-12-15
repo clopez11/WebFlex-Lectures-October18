@@ -8,7 +8,7 @@
 ---
 
 ## Links
-* [M4W8 - Intro to CSS](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W8/css-class)
+* [M4W9 - AJAX](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W9)
 
 ---
 

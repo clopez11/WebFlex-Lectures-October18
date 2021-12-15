@@ -11,6 +11,7 @@ Cohort: October 18, 2021
 * [M3W7 - HTTP Cookies & User Authentication](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M3/W7)
 * [M4W8 - Intro to CSS](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W8/css-class)
 * [M4W8 - Breakout Session](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W8/css-breakout)
+* [M4W9 - AJAX](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W9)
 
 ### Class Recordings
 * [M1W2 - Objects in JavaScript](https://us02web.zoom.us/rec/share/oVDAVldBdnNEyInW1Yxp_Gd5G4TPnb4wu7cB1F4lJVHuFZRtnBdgK2lT0yXt97N3.QLwT8xbvt3F5NLAn) | **Passcode:** mT^35kb=
