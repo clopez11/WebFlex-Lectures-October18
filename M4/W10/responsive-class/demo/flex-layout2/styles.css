@@ -1,0 +1,60 @@
+/* Do not edit this code, instead scroll down to the bottom and add new CSS rules! */
+
+/* In fact, don't even worry about the code here!! */
+
+.box {
+  flex: 1;
+  min-height: 150px;
+  font-size: 40px;
+  margin: 0;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.a {
+  background: #EC6443;
+}
+
+.b {
+  background: #48998D;
+}
+
+.c {
+  background: #C6D86D;
+}
+
+.d {
+  background: #54494B;
+}
+
+.e {
+  background: #B23C86;
+}
+
+.f {
+  background: #D83A3D;
+}
+
+.g {
+  background: #2F294D;
+}
+
+/* Add your code below */
+main {
+  display: flex;
+}
+
+.container {
+  flex: 3;
+}
+
+aside {
+  display: flex;
+  flex: 1;
+}
+
+section {
+  display: flex;
+}

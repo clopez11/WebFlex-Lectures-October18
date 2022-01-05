@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo: Responsive Design</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Section: Header -->
+  <header class="header-main">
+    <img src="images/logo-tweeet.png" class="logo">
+    <div class="header-profile">
+      <h2 class="profile-name">FirstName LastName</h2>
+      <img src="images/avatar-astronaut.jpg" class="profile-image">
+    </div>
+  </header>
+  <!-- End of Section: Header -->
+
+  <!-- Section: Add New Tweet -->
+  <section class="new-tweet">
+    <h2 class="page-title">Add New Tweet</h2>
+    <form class="new-tweet-form">
+      <label for="tweet-text">What are you humming about?</label>
+      <textarea name="text" id="tweet-text"></textarea>
+      <div class="new-tweet-counter">
+        <button type="submit">Tweet</button>
+        <output name="counter" class="counter" for="tweet-text">140</output>
+      </div>
+    </form>
+  </section>
+  <!-- End of Section: Add New Tweet -->
+
+  <!-- Section: Tweets -->
+  <div class="tweets">
+    <h2 class="page-title">Tweets</h2>
+    <div class="tweets-content">
+      <!-- Tweet 1 -->
+      <div class="tweet-card">
+        <!-- Tweet Card Body -->
+        <div class="tweet-card-body">
+          <p class="tweet-card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus sit voluptate porro tenetur odio aliquam voluptates ipsam repudiandae tempora, enim ullam, placeat impedit quidem eligendi in minus iusto modi eos?</p>
+        </div>
+        <!-- End of Tweet Card Body -->
+        <!-- Tweet Card Footer -->
+        <div class="tweet-card-footer">
+          <img src="images/avatar-astronaut.jpg" alt="Profile Image" class="tweet-card-footer-image">
+          <div class="tweet-card-footer-body">
+            <span class="user">@HandleName</span>
+            <span class="date">22 September 2021</span>
+          </div>
+        </div>
+        <!-- End of Tweet Card Footer -->
+      </div>
+      <!-- Tweet 2 -->
+      <div class="tweet-card">
+        <!-- Tweet Card Body -->
+        <div class="tweet-card-body">
+          <p class="tweet-card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus sit voluptate porro tenetur odio aliquam voluptates ipsam repudiandae tempora, enim ullam, placeat impedit quidem eligendi in minus iusto modi eos?</p>
+        </div>
+        <!-- End of Tweet Card Body -->
+        <!-- Tweet Card Footer -->
+        <div class="tweet-card-footer">
+          <img src="images/avatar-astronaut.jpg" alt="Profile Image" class="tweet-card-footer-image">
+          <div class="tweet-card-footer-body">
+            <span class="user">@HandleName</span>
+            <span class="date">22 September 2021</span>
+          </div>
+        </div>
+        <!-- End of Tweet Card Footer -->
+      </div>
+      <!-- Tweet 3 -->
+      <div class="tweet-card">
+        <!-- Tweet Card Body -->
+        <div class="tweet-card-body">
+          <p class="tweet-card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus sit voluptate porro tenetur odio aliquam voluptates ipsam repudiandae tempora, enim ullam, placeat impedit quidem eligendi in minus iusto modi eos?</p>
+        </div>
+        <!-- End of Tweet Card Body -->
+        <!-- Tweet Card Footer -->
+        <div class="tweet-card-footer">
+          <img src="images/avatar-astronaut.jpg" alt="Profile Image" class="tweet-card-footer-image">
+          <div class="tweet-card-footer-body">
+            <span class="user">@HandleName</span>
+            <span class="date">22 September 2021</span>
+          </div>
+        </div>
+        <!-- End of Tweet Card Footer -->
+      </div>
+    </div>
+  </div>
+  <!-- End of Section: Tweets -->
+</body>
+</html>
