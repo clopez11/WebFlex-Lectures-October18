@@ -18,7 +18,7 @@
 ---
 
 ## Links
-* [M4W10 - Responsive Design](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W8/css-class)
+* [M4W10 - Responsive Design](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W10)
 * [Class Recording](https://us02web.zoom.us/rec/share/T7TGSjotqEAhb2ut47g5JsVNAxvSjYh_SzKj3G8bO3igzBJXTn5d5fWykgDoPvQA.OHBc9ctV_x0ZSwPs) | **Passcode:** vwUY?ip7
 
 ---
