@@ -118,7 +118,7 @@ body {
 }
 
 .new-tweet .page-title {
-  @include add-underline(underline, blue, single);
+  @include add-underline(underline, blue, dashed);
   clear: left;
   color: #3d5170;
   font-size: 26px;
