@@ -1,0 +1,12 @@
+/*
+* Known as Style Functions
+* Syntax: @mixin mixin-name
+*/
+
+@mixin add-underline($decoration, $color, $style) {
+  text-decoration: $decoration;
+  text-decoration-color: $color;
+  text-decoration-style: $style;
+}
+
+// Animations

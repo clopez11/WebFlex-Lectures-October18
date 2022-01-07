@@ -1,0 +1,17 @@
+{
+  "name": "tweeter-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass sass/index.scss public/styles/styles.css --no-source-map",
+    "sass-watch": "sass --watch index.scss styles.css --no-source-map"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.41.1"
+  }
+}

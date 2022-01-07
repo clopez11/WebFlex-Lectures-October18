@@ -1,0 +1,216 @@
+@import '_variables.scss';
+@import '_mixins.scss';
+
+/* Reset Default Styles */
+*, ::after, ::before {
+  border: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 1rem;
+}
+
+/* Global Styles */
+body {
+  background-color: $primary-bg-color;
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+  width: 100vw;
+}
+
+/* Section: Header */
+.header-main {
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgb(90 97 105 / 12%);
+  height: 60px;
+
+  .logo {
+    float: left;
+    height: auto;
+    margin-top: -45px;
+    padding: 10px;
+    width: 150px;
+  }
+
+  .header-profile {
+    display: inline;
+    float: right;
+    padding: 10px;
+
+    .profile-name {
+      @include add-underline(underline, red, double);
+      color: rgba(0,0,0,.5);
+      display: inline-block;
+      font-size: 2rem;
+      margin-right: 3px;
+      position: relative;
+      top: -12px;
+    }
+
+    .profile-image {
+      border-radius: 50%;
+      height: auto;
+      width: 40px;
+    }
+  }
+}
+
+/* Section: Tweet */
+.new-tweet {
+  padding: 24px;
+}
+
+.new-tweet .page-title {
+  @include add-underline(underline, blue, dashed);
+  clear: left;
+  color: #3d5170;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1;
+  padding: 12px 0;
+}
+
+.new-tweet .new-tweet-form label {
+  color: #818ea3;
+  font-size: 10px;
+  letter-spacing: 2px;
+}
+
+.new-tweet .new-tweet-form #tweet-text {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  height: 50px;
+  margin-top: 3px;
+  width: 100%;
+}
+
+.new-tweet .new-tweet-form .new-tweet-counter {
+  margin-top: 5px;
+}
+
+.new-tweet .new-tweet-form .new-tweet-counter button {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  padding: 7px 14px;
+}
+
+.new-tweet .new-tweet-form .new-tweet-counter .counter {
+  color: #3d5170;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* Tweets */
+.tweets {
+  margin: 12px 24px;
+}
+
+.tweets .page-title {
+  color: #3d5170;
+}
+
+.tweets .tweets-content {
+  /* height: 100px; */
+  display: flex;
+  flex-direction: column;
+}
+
+.tweets .tweet-card {
+  background-color: #fff;
+  border-radius: 5px;
+  /* display: inline-block; */
+  margin: 5px 0;
+  padding: 25px;
+  /* min-width: 200px;
+  max-width: 300px; */
+  /* width: 33%; */
+}
+
+.tweets .tweet-card .tweet-card-body p {
+  color: #868e96;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 20px;
+}
+
+.tweets .tweet-card .tweet-card-footer {
+  border-radius: 0 0 10px 10px;
+  border-top: $border;
+  padding: 20px 0;
+}
+
+.tweets .tweet-card .tweet-card-footer img {
+  box-shadow: 0 0 0 2px #fff, 0 3px 7px rgb(90 97 105 / 50%);
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  clear: both;
+  float: left;
+  width: 40px;
+}
+
+.tweets .tweet-card .tweet-card-footer .tweet-card-footer-body {
+  margin-top: 10px;
+}
+
+.tweets .tweet-card .tweet-card-footer .tweet-card-footer-body .user {
+  color: #868e96;
+  margin-left: 10px;
+}
+
+.tweets .tweet-card .tweet-card-footer .tweet-card-footer-body .date {
+  color: rgba(0,0,0,.8);
+}
+
+/* Media Queries */
+/* @media screen and (min-width: 350px) {
+  body {
+    background-color: red;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  body {
+    background-color: blue;
+  }
+}
+
+@media screen and (min-width: 760px) and (max-width: 980px) {
+	body {
+    background-color: purple;
+  }
+}
+
+@media screen and (min-width: 981px) {
+  body {
+    background-color: orange;
+  }
+} */
+
+/* Tablet */
+@media screen and (min-width: $bp-mobile) {
+  .tweets .tweets-content {
+    flex-direction: row-reverse;
+  }
+
+  .tweets .tweet-card {
+    margin: 10px;
+  }
+}
+
+/* Desktop */
+@media screen and (min-width: 1200px) {
+  .tweets .tweets-content {
+    flex-direction: row;
+  }
+
+  .tweets .tweet-card {
+    margin: 5px;
+  }
+}
