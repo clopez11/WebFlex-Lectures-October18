@@ -109,7 +109,7 @@ ID | Menu Item | Price | Calories
 ```
 
 ## Queries
-* [SQL Challenges](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M5/W11/sql-intro-class/demo-database/queries)
+* [SQL Challenges](https://github.com/clopez11/WebFlex-Lectures-October18/blob/master/M5/W11/sql-intro-class/demo-database/queries/queries.md)
 
 ## Resources
 * link: https://www.c-sharpcorner.com/article/what-are-the-most-popular-relational-databases/
