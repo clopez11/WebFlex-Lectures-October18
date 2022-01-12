@@ -13,7 +13,7 @@
 ---
 
 ## Links
-* [M5W11 - SQL Intro](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W10)
+* [M5W11 - SQL Intro](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M5/W11/sql-intro-class)
 * [Class Recording](https://us02web.zoom.us/rec/share/9FzbFh230mocYRSvdzQ45EHgD3IEv_iPBA5TLkVSYKxmB0nnc2L9Me6L0wP7KktX.C0qIwxqThUlspo2v?startTime=1641949507000) | **Passcode:** y@Y3Hg%2
 
 ---
