@@ -3,7 +3,6 @@
 ### Content:
 - [X] Introduction to RDBMS
 - [X] Data Model (Tables, Columns, Rows)
-- ----------------------------------------- Break: 15 minutes
 - [X] `SELECT` Statements
 - [X] `WHERE` and `ORDER BY` Statements
 - [X] `LIMIT` and `OFFSET` Statements
