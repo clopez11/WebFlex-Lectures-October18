@@ -112,5 +112,7 @@ ID | Menu Item | Price | Calories
 * [SQL Challenges](https://github.com/clopez11/WebFlex-Lectures-October18/blob/master/M5/W11/sql-intro-class/demo-database/queries/queries.md)
 
 ## Resources
-* link: https://www.c-sharpcorner.com/article/what-are-the-most-popular-relational-databases/
-* link: https://db-engines.com/en/ranking
+* https://www.c-sharpcorner.com/article/what-are-the-most-popular-relational-databases/
+* https://db-engines.com/en/ranking
+* https://sql-joins.leopard.in.ua/
+* https://sqlbolt.com/lesson/select_queries_order_of_execution
