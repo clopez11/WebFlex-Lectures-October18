@@ -15,6 +15,7 @@ Cohort: October 18, 2021
 * [M4W10 - Responsive Design](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W10/responsive-class)
 * [M4W10 - Breakout Session](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W10/responsive-breakout)
 * [M5W11 - SQL Intro](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M5/W11)
+* [M5W12 - SQL from our Apps](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M5/W12)
 
 ### Class Recordings
 * [M1W2 - Objects in JavaScript](https://us02web.zoom.us/rec/share/oVDAVldBdnNEyInW1Yxp_Gd5G4TPnb4wu7cB1F4lJVHuFZRtnBdgK2lT0yXt97N3.QLwT8xbvt3F5NLAn) | **Passcode:** mT^35kb=
@@ -25,3 +26,4 @@ Cohort: October 18, 2021
 * [M4W10 - Responsive Design](https://us02web.zoom.us/rec/share/T7TGSjotqEAhb2ut47g5JsVNAxvSjYh_SzKj3G8bO3igzBJXTn5d5fWykgDoPvQA.OHBc9ctV_x0ZSwPs) | **Passcode:** vwUY?ip7
 * [M4W10 - Breakout Session](https://vimeo.com/663195344)
 * [M5W11 - SQL Intro](https://us02web.zoom.us/rec/share/9FzbFh230mocYRSvdzQ45EHgD3IEv_iPBA5TLkVSYKxmB0nnc2L9Me6L0wP7KktX.C0qIwxqThUlspo2v?startTime=1641949507000) | **Passcode:** y@Y3Hg%2
+* [M5W12 - SQL from our Apps](https://us02web.zoom.us/rec/share/1s4FgzaazyZCuJNOJmx_IHUuzi0qKQsJ9j3lOJA4Scu9f5_T48yjeuaEAUTU6HBY.HfUt0DhqOW5Tv8mG) | **Passcode:** aWJBd20@
