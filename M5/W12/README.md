@@ -27,7 +27,7 @@
 * `foreign key` is under `urls` table.
 * a `url` belongs to a `user`.
 * a `user` has many `urls`.
-* ERD: `erd/erd_tinyapp.png`
+* ERD: [`erd/erd_tinyapp.png`](https://github.com/clopez11/WebFlex-Lectures-October18/blob/master/M5/W12/sql-from-apps-class/demo/erd/erd_tinyapp.png)
 
 ### Users Table
 ```
