@@ -16,6 +16,7 @@ Cohort: October 18, 2021
 * [M4W10 - Breakout Session](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M4/W10/responsive-breakout)
 * [M5W11 - SQL Intro](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M5/W11)
 * [M5W12 - SQL from our Apps](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M5/W12)
+* [M6W14 - Midterm](https://github.com/clopez11/WebFlex-Lectures-October18/tree/master/M6/W14/midterm-kickoff-class)
 
 ### Class Recordings
 * [M1W2 - Objects in JavaScript](https://us02web.zoom.us/rec/share/oVDAVldBdnNEyInW1Yxp_Gd5G4TPnb4wu7cB1F4lJVHuFZRtnBdgK2lT0yXt97N3.QLwT8xbvt3F5NLAn) | **Passcode:** mT^35kb=
