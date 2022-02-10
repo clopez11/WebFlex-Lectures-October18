@@ -12,6 +12,7 @@
 4. Summarize Project
 5. Next Steps (Stretch Goals)
 6. Question & Comments
+7. Close
 
 ---
 
@@ -20,6 +21,7 @@
 2. Present Main Features
 3. Next Steps (Stretch Goals)
 4. Question & Comments
+5. Close
 
 ---
 
