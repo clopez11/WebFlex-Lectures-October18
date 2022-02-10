@@ -1,4 +1,5 @@
 ## Demo
+* **FIX BUGS BEFORE PRESENATION OR DO NOT PRESENT THE FEATURE IF BUGGY**
 * Product Demo not only focuses on features.
 * It tells the user story and how the user will use your product.
 * **Duration**: 5 minutes including Q&A.
