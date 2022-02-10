@@ -33,7 +33,7 @@
 
 ## Agenda:
   * example below or others have created a slide to keep them organized.
-  * if you build, a lot of features **Format 2** might be better and keep this as a note to keep you on track.
+  * A lot of features, **Format 2** is better for time and keep this as a note to keep you on track.
 
 ```
 ## Demo Content
