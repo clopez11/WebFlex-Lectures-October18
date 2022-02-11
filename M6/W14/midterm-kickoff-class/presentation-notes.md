@@ -26,6 +26,10 @@
 
 ---
 
+## Format 3
+* Do whatever is comfortable to you.
+
+---
 
 ## Introduction
 * introduce team members and project or name of app.
