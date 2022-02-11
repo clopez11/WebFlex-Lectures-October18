@@ -93,5 +93,7 @@
 * If the features is buggy, then do not present.
 * Focus on main features only.
 * Everyone in team should present or have a voice during presentation.
+* Discuss what you did individually and as a team.
+* Discuss what you all overcame as a team and what you learned.
 * Please make sure to test and present from your `master` branch.
 * `master` branch is your production code and should always be working.
