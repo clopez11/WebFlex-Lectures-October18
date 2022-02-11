@@ -57,7 +57,6 @@
 ## Present Main Features
   * **Option 1**: team member presents `features` they built individually.
   * **Option 2**: each team member picks to present either `back-end` (admin panel), `front-end` & stretch goals.
-  * **Option 3**: one team member does entire presentation, if other members are too shy.
 
 ---
 
